@@ -14,3 +14,6 @@ most used for course servers like mine.
 7: save file.
 8: change map or restart server.
 9: and your done. 
+
+check video how to setup plugin:
+https://youtu.be/chX9pD-6R5w
